@@ -10,12 +10,13 @@
   font-family: 'Poppins', sans-serif;
 }
 body {
-  background-color: rgb(164, 164, 164);
-  color: white;
+  /* background-color: rgb(164, 164, 164); */
+  color: rgb(122, 122, 84);
+  background-image: url(form.png);
 }
 .main form h1{
   font-size: 39px;
-  color: rgb(34, 33, 33);
+  color:rgb(122, 122, 84);
   
 }
 .main{
@@ -26,14 +27,14 @@ body {
   font-size: 23px;
 }
 .main form {
-  background-color: rgb(86, 86, 126);
+  /* background-color: rgb(86, 86, 126); */
   margin: 19px;
   padding: 9px;
   box-shadow: 10px 5px 5px #888888;
   border-radius: 9px;
 }
 .main form label{
-  color: white;
+  color: rgb(122, 122, 84);
   font-weight:600;
   
 }
